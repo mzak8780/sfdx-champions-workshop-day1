@@ -3,3 +3,4 @@ Attendace:
 - Juan
 - Daniel Clift
 - Aimee
+- Shaun
