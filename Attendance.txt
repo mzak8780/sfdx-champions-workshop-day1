@@ -1,3 +1,4 @@
 Attendace:
 - Maks 
+- Juan
 - Daniel Clift
